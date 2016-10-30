@@ -1,4 +1,4 @@
-#Contact Book
+Contact Book
 ===========
 
 Project of Contact Book, written in PHP, in the framework Symfony 2 based on the MVC design pattern.
